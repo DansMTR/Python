@@ -59,8 +59,8 @@ def load_progress(Segment_List):
 if __name__ == "__main__":
     # Data to be written to the JSON file
     data = {
-        "email": "nadine.schlamm1983@proton.me",
-        "password": "bWdS4pg8Ngn6Sw",
+        "email": "###########",
+        "password": "###########",
         "search_segments": [
             "keywords=",
             "countries=DE",
